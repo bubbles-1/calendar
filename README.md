@@ -1,1 +1,1 @@
-# tech-calendar
+# Calendar
